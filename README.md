@@ -5,7 +5,7 @@
 
 # What is Consensus?
 Do you and your friends ever struggle to decide on what to do on a night out? Have you ever had difficulty organising the perfect activity for your work colleagues? Well, our app 'Consensus' aims to address that.
-'Consensus' is a web-app that enables a group of people to vote of their desired criteria for an activity and then let the app pick the final result.
+'Consensus' is a web-app that enables a group of people to vote on their desired criteria for an activity and then let the app pick the final result.
 
 It is a real-time voting app that applies filters based on the outcome of several rounds of voting. The end-result is a single suggestion made by the app. 
 
