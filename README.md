@@ -11,7 +11,7 @@ It is a real-time voting app that applies filters based on the outcome of severa
 
 🌐Visit: 
 <br>
-https://consensusgpt.netlify.app/
+[Deployed App](https://consensusgpt.netlify.app/)
 
 [Video Demonstration](https://www.youtube.com/watch?v=PBnj64zxD_E)
 
@@ -35,6 +35,7 @@ https://consensusgpt.netlify.app/
 ❗WIP❗
 <br>
 There are a few key features that I aim to address in this forked repo that we didn't get time to resolve in the 5 weeks we spent creating 'Consensus'.
+<br>
 * Currently the group real-time functionality is handled with http requests and so the aim is to use websockets instead.
 * I'd like to convert the voting to a Dot-voting system, with a 1st, 2nd and 3rd choice system to create more balanced outcomes.
 * I also aim to use real data instead of the dummy data currently in the database. With this in place the Location filter could then be linked to a geo-location system.
