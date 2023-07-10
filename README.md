@@ -10,6 +10,7 @@ Do you and your friends ever struggle to decide on what to do on a night out? Ha
 It is a real-time voting app that applies filters based on the outcome of several rounds of voting. The end-result is a single suggestion made by the app. 
 
 🌐Visit: 
+<br>
 https://consensusgpt.netlify.app/
 
 [Video Demonstration](https://www.youtube.com/watch?v=PBnj64zxD_E)
@@ -32,6 +33,7 @@ https://consensusgpt.netlify.app/
  - [Roberto De Spirito](https://github.com/Roboto-Automo)
 
 ❗WIP❗
+<br>
 There are a few key features that I aim to address in this forked repo that we didn't get time to resolve in the 5 weeks we spent creating 'Consensus'.
 * Currently the group real-time functionality is handled with http requests and so the aim is to use websockets instead.
 * I'd like to convert the voting to a Dot-voting system, with a 1st, 2nd and 3rd choice system to create more balanced outcomes.
