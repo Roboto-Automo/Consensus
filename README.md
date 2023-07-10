@@ -4,10 +4,6 @@
 
 ❗WIP❗
 
-This is the repository for the School of Code full-stack final project made as a team of 6. 
-
-❓About the project:
-
 # Problem Statement
 Do you and your friends ever struggle to decide on what to do on a night out? Have you ever had difficulty organising the perfect activity for your work colleagues? Well, our app 'Consensus' aims to address that.
 'Consensus' is a web-app that enables a group of people to vote of their desired criteria for an activity and then let the app pick the final result.
@@ -24,10 +20,12 @@ https://consensusgpt.netlify.app/
 - Supabase database
 - Netlify: deployment and serverless functions
 
+'Consensus' was created by a team of 6 students from the School of Code as part of the full-stack final 5 week project. 
+
 👥The team (github profiles):
-- georgeussher
-- paulg44
-- Arghmybeans
-- Miadowne
-- Roboto-Automo
-- davidhuckfield
+- [George Ussher](https://github.com/georgeussher)
+ - [Paul Garton](https://github.com/paulg44)
+ - [Tahmina Begum](https://github.com/Arghmybeans)
+ - [David Huckfield](https://github.com/davidhuckfield)
+ - [Mia Downe](https://github.com/Miadowne)
+ - [Roberto De Spirito](https://github.com/Roboto-Automo)
