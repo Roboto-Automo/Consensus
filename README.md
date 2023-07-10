@@ -9,12 +9,13 @@ Do you and your friends ever struggle to decide on what to do on a night out? Ha
 
 It is a real-time voting app that applies filters based on the outcome of several rounds of voting. The end-result is a single suggestion made by the app. 
 
-🌐Visit: 
+🌐 __Visit:__ 
 <br>
 [Deployed App](https://consensusgpt.netlify.app/)
+
 [Video Demonstration](https://www.youtube.com/watch?v=PBnj64zxD_E)
 
-💻Tech-stack:
+💻 __Tech-stack:__
 - React.js
 - CSS
 - Jest unit tests
@@ -23,7 +24,7 @@ It is a real-time voting app that applies filters based on the outcome of severa
 
 __'Consensus' was created by a team of 6 students from the School of Code as part of the full-stack, 5 week, final project.__ 
 
-👥The team (github profiles):
+👥 __The Team (github profiles):__
 - [George Ussher](https://github.com/georgeussher)
  - [Paul Garton](https://github.com/paulg44)
  - [Tahmina Begum](https://github.com/Arghmybeans)
